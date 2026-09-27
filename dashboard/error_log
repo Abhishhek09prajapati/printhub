@@ -1,0 +1,144 @@
+[09-May-2026 20:55:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/FarmerPdf.php:19
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/FarmerPdf.php(19): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/FarmerPdf.php on line 19
+[10-May-2026 11:32:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php:37
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php(37): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php on line 37
+[10-May-2026 11:32:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php:37
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php(37): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php on line 37
+[10-May-2026 11:45:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php:39
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php(39): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php on line 39
+[10-May-2026 11:45:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php:39
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php(39): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_advance_print.php on line 39
+[10-May-2026 14:58:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/DL_Card.php:19
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/DL_Card.php(19): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/DL_Card.php on line 19
+[10-May-2026 16:29:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/rc_print.php:19
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/rc_print.php(19): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/rc_print.php on line 19
+[10-May-2026 16:59:37 UTC] PHP Warning:  Undefined variable $total_rc_pro in /home2/checkres/public_html/server.checkresponse.top/dashboard/titanhome.php on line 565
+[10-May-2026 16:59:37 UTC] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home2/checkres/public_html/server.checkresponse.top/dashboard/titanhome.php on line 565
+[10-May-2026 17:09:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/ayushman_card.php:19
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/ayushman_card.php(19): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/ayushman_card.php on line 19
+[10-May-2026 17:31:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php:36
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php(36): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 36
+[10-May-2026 17:54:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php:47
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php(47): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 47
+[10-May-2026 18:03:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php:50
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php(50): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 50
+[10-May-2026 19:01:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php:39
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php(39): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 39
+[10-May-2026 19:03:09 UTC] PHP Warning:  Undefined array key "assemblyconnamenolocal" in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 119
+[10-May-2026 19:03:09 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 119
+[10-May-2026 19:08:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php:48
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php(48): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 48
+[10-May-2026 19:13:12 UTC] PHP Warning:  Undefined array key "assemblyconnamenolocal" in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 118
+[10-May-2026 19:13:12 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_advance.php on line 118
+[10-May-2026 19:45:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php:24
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php(24): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php on line 24
+[10-May-2026 19:49:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php:24
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php(24): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php on line 24
+[10-May-2026 19:50:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'wallet' in 'VALUES' in /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php:71
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php(71): mysqli->query('INSERT INTO wal...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/ration_card.php on line 71
+[10-May-2026 20:06:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/ll_pdf.php:24
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/ll_pdf.php(24): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/ll_pdf.php on line 24
+[10-May-2026 20:13:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_full_details.php:24
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_full_details.php(24): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_full_details.php on line 24
+[11-May-2026 12:10:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/rc_to_mobile.php:24
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/rc_to_mobile.php(24): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/rc_to_mobile.php on line 24
+[11-May-2026 13:35:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/up_ration_to_uid.php:24
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/up_ration_to_uid.php(24): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/up_ration_to_uid.php on line 24
+[11-May-2026 13:38:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/up_ration_to_uid.php:24
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/up_ration_to_uid.php(24): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/up_ration_to_uid.php on line 24
+[12-May-2026 14:53:27 UTC] PHP Warning:  Undefined array key "user_type" in /home2/checkres/public_html/server.checkresponse.top/dashboard/edit_user.php on line 10
+[12-May-2026 15:44:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_pdf.php:21
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_pdf.php(21): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/voter_pdf.php on line 21
+[13-May-2026 08:53:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/aadhar_to_pan.php:21
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/aadhar_to_pan.php(21): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/aadhar_to_pan.php on line 21
+[13-May-2026 08:54:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/aadhar_to_pan_list.php:18
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/aadhar_to_pan_list.php(18): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/aadhar_to_pan_list.php on line 18
+[13-May-2026 20:34:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'checkres_falcon.titanpayment' doesn't exist in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_to_aadhar.php:21
+Stack trace:
+#0 /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_to_aadhar.php(21): mysqli->query('SELECT titanurl...')
+#1 {main}
+  thrown in /home2/checkres/public_html/server.checkresponse.top/dashboard/pan_to_aadhar.php on line 21
+[13-May-2026 21:09:17 UTC] PHP Warning:  Undefined array key "user_type" in /home2/checkres/public_html/server.checkresponse.top/dashboard/tiketview.php on line 10
+[14-May-2026 01:44:32 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home2/checkres/public_html/server.checkresponse.top/dashboard/register.php on line 366
+[14-May-2026 22:37:52 UTC] PHP Warning:  require_once(../titancore/titanconfig.php): Failed to open stream: No such file or directory in /home/titanapi/update.titanapi.in/updatefile/dashboard/login.php on line 13
+[14-May-2026 22:37:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../titancore/titanconfig.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/titanapi/update.titanapi.in/updatefile/dashboard/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/titanapi/update.titanapi.in/updatefile/dashboard/login.php on line 13
+[15-May-2026 01:18:29 UTC] PHP Warning:  require_once(../titancore/titanconfig.php): Failed to open stream: No such file or directory in /home/titanapi/update.titanapi.in/updatefile/dashboard/login.php on line 13
+[15-May-2026 01:18:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../titancore/titanconfig.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/titanapi/update.titanapi.in/updatefile/dashboard/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/titanapi/update.titanapi.in/updatefile/dashboard/login.php on line 13
